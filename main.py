@@ -2,7 +2,7 @@ from Quiz_perguntas import perguntas_quiz
 import Resultado_Quiz
 def jogar_quiz():
     contador_perguntas = 0
-    print ('Bem vindo ao Quiz')
+    print ('Bem vindo ao Quiz - v2')
     print ('Responda as perguntas digitando o número da opção correta')
     perguntas = perguntas_quiz()
     contador = 0
